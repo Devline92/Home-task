@@ -1,0 +1,6 @@
+name,age,material
+table,5,wood
+pen,2,wood
+cap,3,glass
+bag,1,koton
+case,4,carbon

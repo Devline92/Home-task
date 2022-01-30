@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Beautifyconverter.com Json To HTML Converter</title>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <td>name</td>
+            <td>age</td>
+            <td>material</td>
+        </tr>
+        <tr>
+            <td>table</td>
+            <td>5</td>
+            <td>wood</td>
+        </tr>
+        <tr>
+            <td>pen</td>
+            <td>2</td>
+            <td>wood</td>
+        </tr>
+        <tr>
+            <td>cap</td>
+            <td>3</td>
+            <td>glass</td>
+        </tr>
+        <tr>
+            <td>bag</td>
+            <td>1</td>
+            <td>koton</td>
+        </tr>
+        <tr>
+            <td>case</td>
+            <td>4</td>
+            <td>carbon</td>
+        </tr>
+        <tr>
+            <td></td>
+        </tr>
+    </table>
+</body>
+
+</html>

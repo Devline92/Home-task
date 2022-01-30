@@ -1,0 +1,29 @@
+  {
+    "thing": [     
+      {
+       "name": "table",
+       "age":5,
+       "material": "wood"
+      },
+      {
+        "name":"pen", 
+        "age":2,
+        "material": "wood"
+      },
+      {
+       "name": "cap",
+       "age":3, 
+       "material": "glass"
+      },
+     {
+       "name": "bag",
+       "age": 1,
+       "material": "koton"    
+     },
+     { 
+       "name": "case",
+       "age": 4,
+       "material": "carbon"
+      }
+    ]
+ }
